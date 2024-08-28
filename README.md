@@ -1,6 +1,5 @@
 # AptCash
 
-## Team Members
 - **Prathamesh Mutkure**
   - **Role:** Full Stack Blockchain Developer
   - **Experience:** Linux Foundation Mentee, Google Code-In, MLH Fellowship, OSS Contributor, 15x hackathon participant, 4x speaker, 4x company veteran
